@@ -28,6 +28,8 @@ Quick Note:
 
 -DS=Domain Service
 
+-DNS=Domain Name System
+
 
 <h2>Operating Systems Used </h2>
 
