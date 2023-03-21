@@ -45,7 +45,7 @@ Enjoy the slides.
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/226655207-286d7d51-8128-4237-9e64-91650356e865.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-I logged into the AZure portal. Then I located the client VM.
+I logged into the Azure portal. Then I located the client VM.
 <p>
 </p>
 <br />
@@ -77,7 +77,7 @@ Selected DNS Server.
 <p>
 <img src="https://user-images.githubusercontent.com/126700220/226656570-25ac23cb-a997-4449-83d0-e3ca50206c25.png" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Selected "Custom" then entered the DC's private IP address. This allows the thousands of users to log into their accounts successfully. 
+Selected "Custom" then entered the DC's private IP address.  
 <p>
 </p>
 <br />
