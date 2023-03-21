@@ -5,7 +5,7 @@ Active Directory Domain Services: Setting DNS so users can log into their accoun
 <img src="https://user-images.githubusercontent.com/126700220/226635953-574a772b-a2d4-4f68-8c49-cb06d0d6b3e7.png"/>
 </p>
 
-<h1>Domain Services.</h1>
+<h1>Active Directory Domain Services Lab</h1>
 <br />
 
 
@@ -35,7 +35,7 @@ Quick Note:
 - Windows 11 PC
 
 <h2>A brief look at the steps.</h2>
-I show how I conneected the client DNS to the DC successfully.
+I show how I connected the client DNS to the DC successfully.
 Enjoy the slides.
 
 <h2>Screenshots of Steps</h2>
